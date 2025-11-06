@@ -1,5 +1,3 @@
-const nimi = 'Martti';
+const text = `I'm printing to console!`;
 
-console.log(nimi);
-
-alert('Moro');
+console.log(text);
